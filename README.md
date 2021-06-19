@@ -1,6 +1,6 @@
 # Two Bit Circus Foundation STEAM Carnival Platform
 
-Two Bit Circus Foundation STEAM Carnival Platform is a project of Two Bit Circus Foundation, a 501(c)(3) STEAM (science, technology, engineering, art, and math) education nonprofit based in Los Angeles but with a global reach. More information about Two Bit Circus Foundation can be found [here](https://twobitcircus.org).
+Two Bit Circus Foundation STEAM Carnival Platform is a project of Two Bit Circus Foundation (2BCF), a 501(c)(3) STEAM (science, technology, engineering, art, and math) education nonprofit based in Los Angeles, but with a global reach. 2BCF primarily works with youth from underserved communities. More information about Two Bit Circus Foundation can be found [here](https://twobitcircus.org).
 
 The STEAM Carnival Platform provides a fun, engaging, remote "carnival" experience for groups of students ranging from kindergarten to high school to help them celebrate and enjoy STEAM. The Platform's main features include puzzles, quizzes, a livestreaming MC, and a live leaderboard.
 
@@ -13,50 +13,23 @@ The online STEAM Carnival was developed during the pandemic in an attempt to sub
 - MySQL
 - php
 - Wordpress
+- Note: Github is here being used for project managment only, not codebase management.
 
 
 
 # How to contribute
 
-Explain the different ways people can contribute. For example:
-
 - Join the team [on Slack](https://join.slack.com/share/zt-s0wgkmx0-jVCbyIKm5KUpTlkscywyFw).
-- Choose an [issue](https://github.com/myastark/2BCF-steam-carnival/issues) to work on.
-
-
-
-
-
-## Installation instructions [I don't know how to do this]
-
-1. Step-by-step instructions help new contributors get a development environment up and running quickly.
-2. You'll want to find the balance between being specific enough for novices to follow, without being so specific that you reinvent the wheel by providing overly-basic instructions that can be found elsewhere.
-3. Feel free to adapt this section and its sub-sections to your own processes.
-4. Alternatively, you can move everything from *Installation instructions* through *Testing* to a separate **Contributing.md** file to keep your **ReadMe.md** more succinct.
+- Choose an [issue](https://github.com/myastark/2BCF-steam-carnival/projects/1) to work on from the Project Management kanban board.
 
 
 ### Working with issues 
 
-- Submit bugs via issues.
-- Sub feature request.
-- Explain how to contribute to an existing issue.
+- Issues are found in the Project called Project Management, a kanban board. For more information on how [Hack 4 LA](https://www.hackforla.org/#) (the civic hacking organization which created this template) uses kanban, see [here](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit#).
+- To create a new issue, see Hack 4 LA's Guide to Github Issues [here](https://www.hackforla.org/guide-pages/github-issues.html).
+- To contribute to an existing issue, assign it to yourself.
 
-To create a new issue, please use the blank issue template (available when you click New Issue).  If you want to create an issue for other projects to use, please create the issue in your own repository and send a slack message to one of your hack night hosts with the link.
-
-
-### Working with forks and branches [I don't know how to do this]
-
-- Explain your guidelines here.
-
-
-### Working with pull requests and reviews [I don't know how to do this]
-
-- Explain your process.
-
-
-### Testing [nor this]
-
-- Provide instructions.
+To create a new issue, please use the blank issue template (available when you click New Issue).   
 
 
 
